@@ -1,0 +1,62 @@
+[
+    {
+        "id": 0,
+        "image": "../assets/wild-boar.png"
+    },
+    {
+        "id": 1,
+        "image": "../assets/bear.png"
+    },
+    {
+        "id": 2,
+        "image": "../assets/buffalo.png"
+    },
+    {
+        "id": 3,
+        "image": "../assets/elephant.png"
+    },
+    {
+        "id": 4,
+        "image": "../assets/fox.png"
+    },
+    {
+        "id": 5,
+        "image": "../assets/hedgehog.png"
+    },
+    {
+        "id": 6,
+        "image": "../assets/hippo.png"
+    },
+    {
+        "id": 7,
+        "image": "../assets/horse.png"
+    },
+    {
+        "id": 8,
+        "image": "../assets/lion.png"
+    },
+    {
+        "id": 9,
+        "image": "../assets/octopus.png"
+    },
+    {
+        "id": 10,
+        "image": "../assets/parrot.png"
+    },
+    {
+        "id": 11,
+        "image": "../assets/pig.png"
+    },
+    {
+        "id": 12,
+        "image": "../assets/puma.png"
+    },
+    {
+        "id": 13,
+        "image": "../assets/shark.png"
+    },
+    {
+        "id": 14,
+        "image": "../assets/sloth.png"
+    }
+]

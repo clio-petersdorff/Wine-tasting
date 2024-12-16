@@ -1,0 +1,12 @@
+.footer { 
+    grid-area: footer;
+    display:inline-block;
+  
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    background-color: #A8A0F1;
+    width:100%;
+  
+    padding:1rem;
+  }

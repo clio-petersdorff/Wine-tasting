@@ -1,0 +1,9 @@
+.qr-code{
+    width:100%;
+    background: 'white';
+    padding: 1 rem;
+}
+
+.copy-button{
+    margin-left:1rem;
+}

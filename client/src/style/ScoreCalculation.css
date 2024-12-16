@@ -1,0 +1,33 @@
+/* Modal container */
+.score {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 90%;
+    max-width: 400px;
+    border-radius: 8px;
+}
+
+
+/* Table styles (reuse these as needed) */
+.score table {
+    width: 100%;
+    font-size: 16px;
+    margin: 20px 0;
+
+}
+
+.score th {
+    background-color: #57AEFE;
+    font-weight: bold;
+    padding: 12px; /* Increased padding for better spacing */
+    color: white;
+}
+
+.score td {
+    background: white;
+    border: 1px solid #dddddd;
+    padding: 12px; /* Increased padding */
+}
+

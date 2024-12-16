@@ -1,0 +1,41 @@
+/* BASE Styles for iPhone SE (375px x 667px) */
+body {
+  background-color: #A8A0F1;
+  padding-top: 2rem;
+  font-family:'Franklin Gothic Medium', Arial, sans-serif;
+
+  display: grid;
+  grid:
+    "header" auto
+    "main" 1fr
+    "footer" auto
+    / 1fr ;
+}
+
+
+.main-container { 
+  grid-area: main;
+  display:inline-block;
+  position:relative;
+
+  margin-top: 5rem;
+  margin-bottom:3rem;
+
+  /* background-color: #AE67B5; */
+  text-align:center;
+  padding:1rem 0;
+  width:100%;
+}
+
+.bold-text{
+  font-weight:bold;
+}
+
+button {
+  padding: 8px 12px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  background:white;
+}
+
